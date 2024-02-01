@@ -1,0 +1,2 @@
+[console_scripts]
+ResumeGen = ResumeGen:main

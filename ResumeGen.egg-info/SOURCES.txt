@@ -1,0 +1,10 @@
+README.md
+setup.py
+ResumeGen/ResumeGen.py
+ResumeGen/__init__.py
+ResumeGen.egg-info/PKG-INFO
+ResumeGen.egg-info/SOURCES.txt
+ResumeGen.egg-info/dependency_links.txt
+ResumeGen.egg-info/entry_points.txt
+ResumeGen.egg-info/requires.txt
+ResumeGen.egg-info/top_level.txt
